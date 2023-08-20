@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "cases_sliders",
+  "info": {
+    "singularName": "cases-slider",
+    "pluralName": "cases-sliders",
+    "displayName": "cases-slider"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slider": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
