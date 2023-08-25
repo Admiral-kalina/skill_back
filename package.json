@@ -10,6 +10,8 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@strapi/plugin-i18n": "4.12.5",
     "@strapi/plugin-users-permissions": "4.12.5",
