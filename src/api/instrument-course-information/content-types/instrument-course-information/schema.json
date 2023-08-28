@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "instrument_course_informations",
+  "info": {
+    "singularName": "instrument-course-information",
+    "pluralName": "instrument-course-informations",
+    "displayName": "instrument-course-information"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "oldPrice": {
+      "type": "integer"
+    },
+    "price": {
+      "type": "integer"
+    },
+    "star": {
+      "type": "decimal",
+      "max": 5,
+      "min": 1,
+      "default": 5
+    }
+  }
+}
