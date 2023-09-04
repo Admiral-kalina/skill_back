@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "link_2s",
+  "info": {
+    "singularName": "link-2",
+    "pluralName": "link-2s",
+    "displayName": "link-2"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link": {
+      "type": "richtext"
+    }
+  }
+}

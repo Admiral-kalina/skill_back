@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "link_1s",
+  "info": {
+    "singularName": "link-1",
+    "pluralName": "link-1s",
+    "displayName": "link-1"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}

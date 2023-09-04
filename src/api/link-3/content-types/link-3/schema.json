@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "link_3s",
+  "info": {
+    "singularName": "link-3",
+    "pluralName": "link-3s",
+    "displayName": "link-3"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}
