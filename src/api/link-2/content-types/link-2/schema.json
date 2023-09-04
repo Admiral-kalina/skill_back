@@ -4,7 +4,8 @@
   "info": {
     "singularName": "link-2",
     "pluralName": "link-2s",
-    "displayName": "link-2"
+    "displayName": "link-2",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,7 +13,7 @@
   "pluginOptions": {},
   "attributes": {
     "link": {
-      "type": "richtext"
+      "type": "string"
     }
   }
 }
